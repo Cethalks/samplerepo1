@@ -1,0 +1,11 @@
+console.log("Student Information Program");
+const studentName ="cethal";
+console.log("studentName:" , studentName);
+let age = 33;
+console.log("Age:" , age);
+const courseName = "playwrightAutomation";
+console.log("Course Name:" , courseName);
+let isStudentEnrolled = true;
+console.log("Is Student Enrolled:" , isStudentEnrolled);
+let Subjects = ["JavaScript","Playwright","ManualTesting"];
+console.log("Subjects:" ,Subjects);
